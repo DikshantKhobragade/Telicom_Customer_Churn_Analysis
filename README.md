@@ -1,4 +1,4 @@
-# Telicom_Customer_Churn_Analysis
+# Telecom_Customer_Churn_Analysis
 # Overview
 This project focuses on analyzing customer churn to identify factors contributing to customer attrition and predict whether a customer is likely to churn. The analysis includes exploratory data analysis (EDA), data preprocessing.
 # Key Features
